@@ -7,7 +7,7 @@ class AppContainer extends Component {
 		super(props);
 
 		this.state = {
-			notification: {
+			notifications: {
 				"1": {
 					id: 1,
 					text: "Something",
